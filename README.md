@@ -14,3 +14,7 @@ please fork it and follow the instruction to get pair's code dynamically
 <br />
 
 안녕하세요
+
+<br />
+
+git 헷갈려
