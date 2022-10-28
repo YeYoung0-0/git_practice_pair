@@ -18,3 +18,7 @@ please fork it and follow the instruction to get pair's code dynamically
 <br />
 
 git 헷갈려
+
+<br />
+
+add 먼저
